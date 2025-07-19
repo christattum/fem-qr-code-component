@@ -30,6 +30,7 @@ body {
     max-width: 320px;
     padding: 16px;
     border-radius: 20px;
+    box-shadow: 0 25px 25px 0 rgb(0 0 0 / 0.0447);
 }
 
 .card .content {
