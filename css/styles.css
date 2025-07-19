@@ -38,12 +38,12 @@ body {
 }
 
 .card .content h1 {
-    color: --var(--slate-900);
+    color: var(--slate-900);
     margin: 0;
     font-size: 22px;
 }
 
 .card .content p {
-    color: --var(--slate-500);
+    color: var(--slate-500);
     margin: 16px 0 0 0;
 }
