@@ -11,11 +11,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -45,6 +41,8 @@ I made sure to use CSS variables for the colours, and flexbox instead of auto ma
 ### Continued development
 
 As I progress, I will refresh/learn more about flexbox and grid.
+
+## Author
 
 - Website - [Chris Tattum](https://christattum.com)
 - Frontend Mentor - [@christattum](https://www.frontendmentor.io/profile/christattum)
