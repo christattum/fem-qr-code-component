@@ -5,11 +5,15 @@
   --slate-900: hsl(218, 44%, 22%);
 }
 
+html {
+    font-size: 62.5%;
+}
+
 body {
     background-color: var(--slate-300);
     font-family: "Outfit", sans-serif;
     font-weight: 400;
-    font-size: 15px;
+    font-size: 1.5rem;
     line-height: 1.4;
 }
 
@@ -40,7 +44,7 @@ body {
 .card .content h1 {
     color: var(--slate-900);
     margin: 0;
-    font-size: 22px;
+    font-size: 2.2rem;
 }
 
 .card .content p {
