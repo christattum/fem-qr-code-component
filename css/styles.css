@@ -3,6 +3,7 @@
   --slate-300: hsl(212, 45%, 89%);
   --slate-500: hsl(216, 15%, 48%);
   --slate-900: hsl(218, 44%, 22%);
+  --shadow-color: rgb(0 0 0 / 0.0447);
 }
 
 html {
@@ -26,10 +27,10 @@ body {
 
 .card {
     background-color: var(--white);
-    max-width: 320px;
+    max-width: 32rem;
     padding: 16px;
     border-radius: 20px;
-    box-shadow: 0 25px 25px 0 rgb(0 0 0 / 0.0447);
+    box-shadow: 0 25px 25px 0 var(--shadow-color);
 }
 
 .card .content {
