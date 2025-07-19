@@ -13,10 +13,6 @@ body {
     line-height: 1.4;
 }
 
-.container {
-    max-width: 1440px;
-}
-
 .card {
     background-color: var(--white);
     max-width: 320px;
